@@ -7,3 +7,4 @@ title:  "Welcome to Jekyll!"
 
 화이팅~
 
+![profile_image](../images/2023-01-28-first-posting/profile_image.png)
