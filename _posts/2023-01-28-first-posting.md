@@ -1,10 +1,6 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+title: 첫 번째 포스팅입니다.
+date: 2023-01-28 22:08:01 +0900
+categories: [Daily, Journal]
+tags: [first]
 ---
-
-# 첫 번째 포스트입니다.
-
-화이팅~
-
-![profile_image](../images/2023-01-28-first-posting/profile_image.png)
